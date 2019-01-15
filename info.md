@@ -58,7 +58,7 @@
 # 项目经验
 
 ### 2018年2月-2019年1月：Bizlink ERP系统
- - 项目简介：企业级sass，创新Erp系统
+ - 项目简介：企业级sass，创新ERP系统
  - 技术框架：React, Java Spring MVC, Typescropt
  - 项目职责：
   - 制定安排开发排期,搭建团队
